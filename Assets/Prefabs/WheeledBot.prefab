@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WheeledBot
   baseSpeed: 3
-  obstacleAvoidanceDistance: 0.5
+  obstacleAvoidanceDistance: 1
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 128
